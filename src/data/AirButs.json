@@ -1,0 +1,156 @@
+[
+      {
+          "id": 43,
+          "title": "JBL Wave 200 Wireless Earbuds (TWS) with Mic, 20 Hours Playtime, Deep Bass Sound, Dual Connect Technology, Quick Charge, Comfort Fit Ergonomic Design, Voice Assistant Support for Mobiles (Black)",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691055343505-earbud.jpg",
+          "price": 24,
+          "description": "JBL DEEP BASS SOUND: Feel the sound with the Deep Bass powered by the 8mm Dynamic drivers and add fun to your routine.\r\nUPTO 20 HOURS OF PLAYTIME: With 5 hours in the earbuds and 15 hours in the case, the JBL Wave 200TWS don’t drop until you do.\r\nQUICK CHARGE: Running Low on Charge, worry not. A quick 15min of charge provides you with playtime upto an Hour.\r\nDUAL CONNECT TECHNOLOGY: With the Dual Connect Technology on the Wave 200 TWS, take calls or listen to music with either bud (or both). Choose which one to use and leave the other one in the case to save battery life.",
+          "brand": "jbl",
+          "model": "JBL",
+          "color": "Black",
+          "category": "audio"
+      },
+      {
+          "id": 44,
+          "title": "Sony WF-C700N Bluetooth Truly Wireless Lightest Active Noise Cancellation in Ear Earbuds, Multipoint Connection, 10 mins Super Quick Charge, 20hrs Batt, IPX4 Ratings, Fast Pair, App Support-Black",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692939913875-earphone1.jpg",
+          "price": 108,
+          "description": "Lightest Earbuds : Focus on your music for as long as you like. These small, lightweight earbuds have an ergonomic surface design for all-day comfort, even for smaller ears.\r\nNoise Cancellation: Cancel out background noise with Noise Sensor Technology or use the Ambient Sound Mode to stay connected to your natural surroundings. Headphones Connect app to control your listening experience.\r\nMultipoint connection: For total convenience, these Bluetooth headphones can be paired with two Bluetooth devices at the same time. So when call comes in your headphones know which device is ringing and connects to the right one automatically.\r\nListen all day, charge in minutes: Enjoy up to 15 hours of listening thanks to the handy charging case.",
+          "brand": "sony",
+          "model": "WF-C700N",
+          "color": "black",
+          "category": "audio",
+          "popular": true,
+          "discount": 9
+      }, {
+        "id": 28,
+        "title": "Apple AirPods (3rd Generation) with Lightning Charging Case ​​​​​​​",
+        "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691054448465-earbud2.jpg",
+        "price": 230,
+        "description": "Spatial audio with dynamic head tracking places sound all around you\r\nAdaptive EQ automatically tunes music to your ears\r\nAll-new contoured design",
+        "brand": "apple",
+        "model": "AirPods 3rd Generation",
+        "color": "White",
+        "category": "audio"
+    },
+      {
+          "id": 41,
+          "title": " Sony SA-SW5 300W Wireless Subwoofer for HT-A9 and HT-A7000 - Black",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692947684843-61T7iilajhL._SL1200_.jpg",
+          "price": 629,
+          "description": "Experience powerful, booming sound with the SW5 wireless subwoofer for use with HT-A9 & A7000 soundbars.\r\nDeep bass and further clearness and fidelity\r\nWireless connectivity and quick and easy setup\r\nAdd depth with 300W powerful bass",
+          "brand": "sony",
+          "model": "SA-SW5",
+          "color": "black",
+          "category": "audio",
+          "discount": 9
+      },{
+        "id": 36,
+        "title": "Mivi Duopods A25 Bluetooth Truly Wireless in Ear Earbuds with Mic with 40Hours Battery, 13Mm Bass Drivers & Made in India. with Immersive Sound Quality, Voice Assistant, Touch Control (White)",
+        "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692945068061-61yTSVeLebS._SL1500_.jpg",
+        "price": 12,
+        "description": "Made in India : From design to manufacturing, Mivi DuoPods A25 is proudly made in India. It is built locally to compete globally..Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ears\r\nConcert In Your Ears: Need to get away from the ever noisy city life? Simply tune in to the Mivi DuoPods A25 and immerse yourself in the high-quality sound of these wireless earbuds.\r\nStudio Quality Sound: The Mivi DuoPods A25 has a studio quality sound output which makes it one of the best wireless earbuds in the market or anything youve ever tried.\r\n",
+        "brand": "Mivi",
+        "model": "Duopods A25",
+        "color": "white",
+        "category": "audio",
+        "popular": true,
+        "discount": 6
+    },
+    {
+        "id": 1 ,
+        "title": "Boult Audio Z20 Pro Truly Wireless Bluetooth Ear Buds with 60H Playtime, 4 Mics Clear Calling, 45ms Low Latency, Rich",
+        "image": "https://m.media-amazon.com/images/I/71hMZ91Q3KL._AC_UL320_.jpg",
+        "price": 1099
+    },
+    {
+        "id": 2,
+        "title": "Boult Audio K40 True Wireless in Ear Earbuds with 48H Playtime, Clear Calling 4 Mics, 45ms Low Latency Gaming,",
+        "image": "https://m.media-amazon.com/images/I/51IddzGCTtL._AC_UL320_.jpg",
+        "price": 999
+    },
+    {
+        "id": 3 ,
+        "title": "Mivi DuoPods i2 True Wireless Earbuds, 45+ Hrs Playtime, HD Call Clarity, Fast Charging, Type C, 13mm Bass Drivers,",
+        "image": "https://m.media-amazon.com/images/I/61QWEobnokL._AC_UL320_.jpg",
+        "price": 799
+    },
+    {
+        "id":4 ,
+        "title": "boAt Airdopes 141, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, IWP, IPX4, v5.1 Bluetooth Earbuds,",
+        "image": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY218_.jpg",
+        "price": 999
+    },
+    {
+        "id":111 ,
+        "title": "",
+        "image": "",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "title": "JBL [New Launch Wave Buds 2 Ear Buds Wireless TWS Bluetooth v5.3 Earbuds with ANC, Smart Ambient,",
+        "image": "https://m.media-amazon.com/images/I/613Znd0DHhL._AC_UY218_.jpg",
+        "price": 3499
+    },
+    {
+        "id": 6 ,
+        "title": "boAt Airdopes 311 Pro, 50HRS Battery, Fast Charge, Dual Mics ENx Tech, Transparent LID, Low Latency, IPX4, IWP",
+        "image": "https://m.media-amazon.com/images/I/614gbl-O98L._AC_UY218_.jpg",
+        "price": 1199
+    },
+    {
+        "id":7 ,
+        "title": "boAt Airdopes 91, 45HRS Battery, 50ms Low Latency, ENx Tech, Fast Charge, IPX4, IWP Tech, v5.3 Bluetooth Earbud",
+        "image": "https://m.media-amazon.com/images/I/61RxFhAMO1L._AC_UY218_.jpg",
+        "price": 999
+    },
+    {
+        "id":8 ,
+        "title": "boAt Airdopes 300, Cinematic Spatial Audio, 50HRS Battery, 4Mic AI ENx, Fast Charge, App Support, Low",
+        "image": "https://m.media-amazon.com/images/I/71ndbdVgC7L._AC_UY218_.jpg",
+        "price": 1099
+    },
+    {
+        "id":9 ,
+        "title": "boAt Airdopes Atom 81 Pro, 100Hrs Battery, 4Mics ENx Tech, 50ms Low Latency, 13mm Drivers, Fast Charge, IPX5,",
+        "image": "https://m.media-amazon.com/images/I/61a56xfTnwL._AC_UY218_.jpg",
+        "price": 1198
+    },
+    {
+        "id":10 ,
+        "title": "boAt Airdopes 121 Pro Plus, 100HRS Battery, 4Mics ENx, 50ms Low Latency, Fast Charge, LED Display, IPX5, v5.3",
+        "image": "https://m.media-amazon.com/images/I/61VbNTLERYL._AC_UY218_.jpg",
+        "price": 999
+    },
+    {
+        "id":11 ,
+        "title": "Boult x Mustang Torq Wireless in Ear Earbuds with 50H Playtime, App Support, Quad Mic ENC, 45ms Low Latency,",
+        "image": "https://m.media-amazon.com/images/I/719xn0KawFL._AC_UY218_.jpg",
+        "price": 1799
+    },
+    {
+        "id":12 ,
+        "title": "Boult Audio UFO Truly Wireless in Ear Earbuds with 48H Playtime, Built-in App Support, 45ms Low Latency",
+        "image": "https://m.media-amazon.com/images/I/71UEM43FlwL._AC_UY218_.jpg",
+        "price": 1499
+    },
+    {
+        "id":13 ,
+        "title": "Noise Buds VS104 Truly Wireless Earbuds with 45H of Playtime, Quad Mic with ENC, Instacharge(10 min=200",
+        "image": "https://m.media-amazon.com/images/I/51+e7yrgPpL._AC_UY218_.jpg",
+        "price": 1799
+    },
+    {
+        "id":14 ,
+        "title": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C",
+        "image": "https://m.media-amazon.com/images/I/81r4-kfrAvL._AC_UY218_.jpg",
+        "price": 2000
+    },
+    {
+        "id":15 ,
+        "title": "boAt Nirvana Space, 360º Spatial Audio, ANC (~32dB), 100Hrs Battery,4Mics ENx, DLC Drivers, Fast Charge, Low",
+        "image": "https://m.media-amazon.com/images/I/71SB8ivq4GL._AC_UY218_.jpg",
+        "price": 1799
+    }
+    ]

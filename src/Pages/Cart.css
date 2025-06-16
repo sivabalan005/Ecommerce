@@ -1,0 +1,144 @@
+/* Style.css */
+
+/* Container for the entire app */
+.App {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f4f4f4;
+}
+
+/* Heading Style */
+.App h1 {
+  font-size: 2rem;
+  margin: 20px 0;
+  color: #333;
+}
+
+/* Cart container styling */
+.cart-container {
+  width: 80%;
+  max-width: 1200px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* Cart item container styling */
+.cart-item {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+  max-height: 400px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.cart-item:hover {
+  transform: translateY(-5px);
+}
+
+/* Image styling */
+.cart-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+/* Title and Price styling */
+.cart-item h3 {
+  font-size: 1rem;
+  color: #333;
+  margin: 0;
+}
+
+.cart-item h4 {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Empty cart message */
+.cart-container p {
+  font-size: 1.5rem;
+  color: #888;
+}
+
+/* Add some spacing between items */
+.cart-container .cart-item {
+  margin-bottom: 20px;
+}
+
+/* Responsive Styles */
+
+/* Tablet view */
+@media (max-width: 768px) {
+  .cart-container {
+      width: 90%;
+  }
+
+  .cart-item {
+      max-width: 500px;
+      padding: 15px;
+  }
+
+  .cart-item img {
+      width: 70px;
+      height: 70px;
+  }
+
+  .cart-item h3 {
+      font-size: 0.8rem;
+  }
+
+  .cart-item h4 {
+      font-size: 0.9rem;
+  }
+}
+
+/* Mobile view */
+@media (max-width: 480px) {
+  .App h1 {
+      font-size: 1.5rem;
+  }
+
+  .cart-container {
+      width: 100%;
+      padding: 10px;
+  }
+
+  .cart-item {
+      max-width: 100%;
+      padding: 10px;
+      flex-direction: row;
+      align-items: flex-start;
+  }
+
+  .cart-item img {
+      width: 60px;
+      height: 60px;
+      margin-bottom: 10px;
+  }
+
+  .cart-item h3 {
+      font-size: 0.7rem;
+  }
+
+  .cart-item h4 {
+      font-size: 0.7rem;
+  }
+
+  .cart-container p {
+      font-size: 1rem;
+  }
+}
