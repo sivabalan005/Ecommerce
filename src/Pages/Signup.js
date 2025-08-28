@@ -33,7 +33,7 @@ const AuthPage = () => {
     setError('');
     
     // Sending POST request to Spring Boot backend to register user
-    axios.post('https://fs-backend-s257.onrender.com/api/auth/signup', {
+    axios.post('https://fs-backend-e4b7.onrender.com/api/auth/signup', {
       username,
       email,
       password,
@@ -67,7 +67,7 @@ const AuthPage = () => {
     setError('');
     
     // Sending POST request to Spring Boot backend to authenticate user
-    axios.post('https://fs-backend-s257.onrender.com/api/auth/login', {
+    axios.post('https://fs-backend-e4b7.onrender.com/api/auth/login', {
       username,
       password,
     })
