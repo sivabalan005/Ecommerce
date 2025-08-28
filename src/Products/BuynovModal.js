@@ -30,7 +30,7 @@ function BuyNowModal({ product, closeModal }) {
     };
 
     // Send the data to the backend
-    axios.post('https://fs-backend-s257.onrender.com/api/orders', orderData)
+    axios.post('https://fs-backend-e4b7.onrender.com/api/orders', orderData)
       .then((response) => {
         console.log(response.data);
         alert("Order placed successfully!");
