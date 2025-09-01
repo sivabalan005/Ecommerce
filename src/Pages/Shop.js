@@ -9,7 +9,7 @@ const Shop = () => {
 
     useEffect(() => {
         // Fetch the product details from the backend API
-        axios.get('http://localhost:2000/api/orders') // Adjust the URL if necessary
+        axios.get('https://fs-backend-e4b7.onrender.com/api/orders') // Adjust the URL if necessary
             .then(response => {
                 setOrders(response.data);  // Set the response data to the state
                 setLoading(false);          // Set loading to false once data is fetched
