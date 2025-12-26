@@ -1,0 +1,103 @@
+[
+      {
+        "id": 1,
+        "title": "Fire-Boltt Ninja Call Pro Plus 46.48mm (1.83 inch) Smart Watch with Bluetooth Calling, AI Voice Assistance, 120",
+        "image": "https://m.media-amazon.com/images/I/61rmkmqD5VL._AC_UL320_.jpg",
+        "price": 1399
+      }, {
+        "id": 2,
+        "title": "Apple Watch SE (2nd Gen, 2023) [GPS 40mm] Smartwatch with Aluminum Case with Silver Sport Loop",
+        "image": "https://m.media-amazon.com/images/I/8112ll3wwbL._AC_UL320_.jpg",
+        "price": 24000
+      }, {
+        "id": 3,
+        "title": "Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Aluminum Case with Starlight Sport",
+        "image": "https://m.media-amazon.com/images/I/8183tbgkwbL._AC_UL320_.jpg",
+        "price": 20000
+      }, {
+        "id": 4,
+        "title": "Like Star® T800 Ultra Smart Watch with Beautiful Strap, Bluetooth Calling Smart Watch, 1.99 Touch Display",
+        "image": "https://m.media-amazon.com/images/I/71kxWc6+dKL._AC_UL320_.jpg",
+        "price": 999
+      }, {
+        "id": 5,
+        "title": "Fire-Boltt Ninja Call Pro Plus 46.48mm (1.83 inch) Smart Watch with Bluetooth Calling, AI Voice Assistance, 120",
+        "image": "https://m.media-amazon.com/images/I/61rmkmqD5VL._AC_UL320_.jpg",
+        "price": 1399
+      }, {
+        "id": 6,
+        "title": "Noise Pulse Go Buzz Smart Watch with Advanced Bluetooth Calling, 1.69 TFT Display, SpO2, 100 Sports",
+        "image": "https://m.media-amazon.com/images/I/61wJNP17lEL._AC_UL320_.jpg",
+        "price": 1499
+      },  {
+        "id": 7,
+        "title": "boAt Storm Call 3 w/Turn-by-Turn Navigation, 1.83 (4.6 cm) HD Display, Bluetooth Calling, Crest+ OS, QR Tray,",
+        "image": "https://m.media-amazon.com/images/I/61A9rFdBjtL._AC_UL320_.jpg",
+        "price": 1499
+      }, {
+        "id": 8,
+        "title": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39 Display, Metal Build, 100+ Watch Faces, IP68, Sleep",
+        "image": "https://m.media-amazon.com/images/I/61Y6E3Y9heL._AC_UL320_.jpg",
+        "price": 1299
+      }, {
+        "id": 9,
+        "title": "Noise Vortex Plus 1.46 AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Battery Life, All New OS",
+        "image": "https://m.media-amazon.com/images/I/61QiBo-sPTL._AC_UL320_.jpg",
+        "price": 2990
+      }, {
+        "id": 10,
+        "title": "boAt Lunar Discovery w/ 1.39 (3.5 cm) HD Display, Turn-by-Turn Navigation, DIY Watch Face Studio, Bluetooth Callin",
+        "image": "https://m.media-amazon.com/images/I/71gUAu2MwZL._AC_UL320_.jpg",
+        "price": 1499
+      }, {
+        "id": 11,
+        "title": "boAt Xtend Call Plus Smart Watch w/ 1.91 HD Display, Advanced BT Calling, Coins, ENx Tech, HR & SpO2, English",
+        "image": "https://m.media-amazon.com/images/I/616D6DrN0fL._AC_UL320_.jpg",
+        "price": 999
+      }, {
+        "id": 12,
+        "title": "Noise Force Rugged & Sporty 1.32 Bluetooth Calling Smart Watch, 550 NITS, 7 Days Battery, AI Voice Assistance,",
+        "image": "https://m.media-amazon.com/images/I/614pTKzcPiL._AC_UL320_.jpg",
+        "price": 1899
+      }, {
+        "id": 13,
+        "title": "boAt Wave Sigma 3 w/Turn-by-Turn Navigation, 2.01 HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch",
+        "image": "https://m.media-amazon.com/images/I/61Fwv0TtQnL._AC_UL320_.jpg",
+        "price": 1490
+      }, {
+        "id": 14,
+        "title": "OLYWIN Best Boost T800 Ultra Orange Smart Watch Display, Bluetooth Calling HD Smart Smartwatch",
+        "image": "https://m.media-amazon.com/images/I/61wf9f2JFbL._AC_UL320_.jpg",
+        "price": 790
+      }, {
+        "id": 15,
+        "title": "Noise ColorFit Pulse Grand Smart Watch with 1.69(4.29cm) HD Display, 60 Sports Modes, 150 Watch",
+        "image": "https://m.media-amazon.com/images/I/61C8hl-ZMfL._AC_UL320_.jpg",
+        "price": 1099
+      }, {
+        "id": 16,
+        "title": "Fire-Boltt 4G Pro Volte Calling Smart Watch- 2.02” TFT Display, 4G Nano-SIM GPS, Health Suite, Sports Modes,",
+        "image": "https://m.media-amazon.com/images/I/71aJJQtVnoL._AC_UL320_.jpg",
+        "price": 1999
+      }, {
+        "id": 17,
+        "title": "Noise Vivid Call 2 Smart Watch with 1.85” HD Display, BT Calling, IP68 Waterproof, 7 Days Battery Life, Sleep",
+        "image": "https://m.media-amazon.com/images/I/61-rcV8ts+L._AC_UL320_.jpg",
+        "price": 999
+      }, {
+        "id": 18,
+        "title": "M I D116 Fitness Band Smart Watch for Men, Women, Boys, Girls, Kids – Single Touch Interface, Water Resistant,",
+        "image": "https://m.media-amazon.com/images/I/61j8zZU-UHL._AC_UL320_.jpg",
+        "price": 799
+      }, {
+        "id": 19,
+        "title": "Boltt Fire Destiny Smartwatch- 1.39” Display, Stainless Steel, Bluetooth Calling, 123 Sports Modes,",
+        "image": "https://m.media-amazon.com/images/I/71vLMLmPVOL._AC_UL320_.jpg",
+        "price": 1499
+      }, {
+        "id": 20,
+        "title": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smart Watch, AI Voice Assistant,",
+        "image": "https://m.media-amazon.com/images/I/51rW3mp1PoL._AC_UL320_.jpg",
+        "price": 1899
+      }
+]

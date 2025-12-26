@@ -1,0 +1,150 @@
+[
+    {
+    "id": 2,
+    "title": "Microsoft Xbox X/S Wireless Controller Robot White",
+    "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255251854-xbox.jpg",
+    "price": 57,
+    "description": "Experience the modernized design of the Xbox wireless controller in robot white, featuring sculpted surfaces and refined Geometry for enhanced comfort and effortless control during gameplay\r\nStay on target with textured grip on the triggers, bumpers, and back case and with a new hybrid D-pad for accurate, yet familiar input\r\nMake the controller your own by customizing button Mapping with the Xbox accessories app",
+    "brand": "microsoft",
+    "model": "Xbox X/S",
+    "color": "white",
+    "category": "gaming",
+    "popular": true,
+    "discount": 4
+},
+{
+    "id": 9,
+    "title": "Amkette EvoFox Elite Ops Wireless Gamepad for Android TV | Google TV | 8+ Hours of Play Time | Zero Lag Connectivity Upto 12 Feets | USB Extender for TV Included | - Dusk Grey",
+    "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694100438525-51Prg4Smx-L._SL1500_.jpg",
+    "price": 18,
+    "description": "The EvoFox Elite Ops Wireless Gamepad with Type C Charging is the ideal Android TV Gamepad. With all Android TVs supporting at least basic Gaming, a Gamepad at home is a must. Use the provided USB Extender Cable on your TV to ensure optimal wireless performance.\r\nThis Wireless Controller also supports Windows with X input and D input modes, and PS3s. It automatically detects and changes the gamepad mode based on your system. Simply Plug and Play!\r\nThe Elite Ops features Digital Triggers (not Analog), Accurate 360 degree concave thumbsticks, a Precise 8 way floating D-Pad. The gamepad also features dual rumble Vibration motors (for PC and PS3 only) and an easy to use Turbo Mode.\r\nThe gamepad comes with a Type C charging port and the 400mAh Rechargeable battery ensures 8 hours of non stop gameplay. The ergonomic and robust design with anti-sweat matte finish makes it easy on your hands, but tough on your enemies.",
+    "brand": "Amkette",
+    "model": "Woburn II Bluetooth",
+    "color": "gray",
+    "category": "gaming",
+    "discount": 3
+}
+,
+{
+    "id": 26,
+    "title": "Handheld Game Console 5.1 inch Pro Retro Games Consoles Built-in Classic Games Rechargeable Battery Portable Style Game Consoles X12",
+    "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692458709910-51DkZC39goL._SL1000_.jpg",
+    "price": 163,
+    "description": "🎮900+ Selected Classic Games: This X12 game console has nostalgic 900 games, unique game file and folder list systematically, find the game you want to play by accurate original English name and number more quickly.\r\n🎮Customized Professional System: Exclusive customization console system, English default setted and Save & Load features, no more lost datas and start again, providing excellent gaming experience.\r\n🎮Quick to Go: The handheld game console with super compact size, easy to carry wherever you go on a business trip, traveling, camping, also equip with bigger battery for long playing.\r\n🎮Multimedia Gaming Device: With multifunction designing, you can reach more entertainment function like playing game, watching movie, music, TXT fiction etc.\r\n🎮Perfect Gifts for Kids & Nostalgia: This mini gaming player is a perfect companion to keep your children occupied and improve their hand-eye coordination.",
+    "brand": "CredevZone",
+    "model": "X12 Red&blue",
+    "category": "gaming",
+    "discount": 9
+},
+{
+    "id": 23,
+    "title": "Ant Esports GP310 Wireless Gamepad, Compatible for PC & Laptop (Windows 10/8 /7, Steam) / PS3 / Android",
+    "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255692675-ant sport.jpg",
+    "price": 14,
+    "description": "Compatibility – PC / Laptop Computer(Windows 10/8/7/XP), Steam, Play Station 3(PS3), Android Mobile Phone*/Tablet*/the device needs support OTG function( * not all Android phones are supported, check your device before purchasing for Android devices, Limited games can play on it which are supported to android games)\r\nExcellent Design – Equipped with 2.4Ghz wireless technology, supports up to 10m range | Wear-resistant Anti-slip Joystick | Cool Appearance | Comfortable Grip\r\nPlug & Play -Only for PC games supporting X input mode, Android mobile games supporting Android mode, Play Station 3. No need to install drivers except for Windows XP\r\nFeature - Multi-mode : X input, D input, Android, PS3 | Vibration Feedback Function",
+    "brand": "ant esports",
+    "model": "GP310",
+    "color": "black",
+    "category": "gaming",
+    "popular": true,
+    "discount": 3,
+    "onSale": true
+},
+{
+    "id": 27,
+    "title": "Sony PS5 PlayStation Console+God Of War Ragnarok | Standard Edition | PS5 Game (PlayStation 5)",
+    "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692459170997-61iHq6qV0gL._SL1422_.jpg",
+    "price": 708,
+    "description": "Maximize your play sessions with near instant load times for installed PS5 games.\r\nThe custom integration of the PS5 console's systems lets creators pull data from the SSD so quickly that they can design games in ways never before possible.\r\nImmerse yourself in worlds with a new level of realism as rays of light are individually simulated, creating true-to-life shadows and reflections in supported PS5 games.\r\nPlay your favorite PS5 games on your stunning 4K TV.\r\nThose who break fate: Atreus seeks knowledge to help him understand the prophecy of \"Loki\" and what role he is to play in Ragnarök. Kratos must decide whether he will be chained by the fear of repeating his mistakes or break free of his past to be the father Atreus needs.",
+    "brand": "sony",
+    "model": "ps5",
+    "category": "gaming",
+    "popular": true,
+    "discount": 11
+},
+{
+    "id": 8,
+    "title": "Cosmic Byte ARES Wireless Controller for PC, Magnetic Triggers, Accurate Joysticks, Dual Vibration, Backit LED",
+    "image": "https://m.media-amazon.com/images/I/61xf2zTjBeL._AC_UY218_.jpg",
+    "price": 1699
+},
+{
+    "id": 9,
+    "title": "Cosmic Byte Stellaris Controller, 3 Modes Wifi + Bluetooth + Wired for PC, iOS, Android, Hall Effect Magnetic Trigger",
+    "image": "https://m.media-amazon.com/images/I/51Oov2q3V9L._AC_UY218_.jpg",
+    "price": 2999
+},
+{
+    "id": 10,
+    "title": "Zebronics MAX FURY Transparent RGB LED Illuminated Wired Gamepad for Windows PC, Android, with Dual",
+    "image": "https://m.media-amazon.com/images/I/715vosKfRkL._AC_UY218_.jpg",
+    "price": 999
+},
+{
+    "id": 11,
+    "title": "Enter Usb Game Pad With Vibration E-Gpv, PC, Gamepad",
+    "image": "https://m.media-amazon.com/images/I/718AG-9zAOL._AC_UY218_.jpg",
+    "price": 399
+},
+{
+    "id": 12,
+    "title": "EvoFox Elite X Wireless Gamepad for PC with 2 Programmable Macro Back Buttons, Adjustable Dual",
+    "image": "https://m.media-amazon.com/images/I/617gm20Kp0L._AC_UY218_.jpg",
+    "price": 1700
+},
+{
+    "id": 13,
+    "title": "RPM Euro Games Laptop/PC Controller Wired for Windows - 7, 8, 8.1, 10 and XP, Ps3(Upgraded with XYAB",
+    "image": "https://m.media-amazon.com/images/I/51TzieA2kpL._AC_UY218_.jpg",
+    "price": 748
+},
+{
+    "id": 14,
+    "title": "Cosmic Byte ARES Wired Controller for PC, Magnetic Triggers, Accurate Joysticks, Dual Vibration, Backit LED",
+    "image": "https://m.media-amazon.com/images/I/518T5womMxL._AC_UY218_.jpg",
+    "price": 1999
+},
+{
+    "id": 15,
+    "title": "EvoFox Elite X Wired Gamepad for PC with 2 Programmable Macro Back Buttons, Adjustable Dual",
+    "image": "https://m.media-amazon.com/images/I/61SLwruzA-L._AC_UY218_.jpg",
+    "price": 1199
+},
+{
+    "id": 16,
+    "title": "EvoFox Elite X RGB Wired Gamepad for PC with 2 Programmable Macro Back Buttons, Adjustable Dual",
+    "image": "https://m.media-amazon.com/images/I/71ghAT0kkNL._AC_UY218_.jpg",
+    "price": 1999
+},
+{
+    "id": 17,
+    "title": "Cosmic Byte Blitz Wireless + Wired Controller for PC, Hall Effect Joystick & Triggers, 1000Hz Polling Rate, Adjustable",
+    "image": "https://m.media-amazon.com/images/I/41BCMDPZ6cL._AC_UY218_.jpg",
+    "price": 1499
+},
+{
+    "id": 18,
+    "title": "EvoFox Elite Ops Wired Gamepad for PC, Android TV and PS3 with 2.4m Long Cable | Dual Vibration Rumble Motors",
+    "image": "https://m.media-amazon.com/images/I/61VopX4s6qL._AC_UY218_.jpg",
+    "price": 929
+},
+{
+    "id": 19,
+    "title": "Ant Esports GP110 Wired Gamepad, Compatible for PC & Laptop Computer (Windows 10/8 /7) / PS3 / Android",
+    "image": "https://m.media-amazon.com/images/I/61FXFhr1r7L._AC_UY218_.jpg",
+    "price": 1200
+},
+{
+    "id": 20,
+    "title": "ZEBRONICS MAX LINK Wireless Gamepad, Dual motors Haptic feedback, Built-in rechargeable battery, RGB light,",
+    "image": "https://m.media-amazon.com/images/I/71c-5eoknFL._AC_UY218_.jpg",
+    "price": 1499
+},
+{
+    "id": 21,
+    "title": "Ant Esports GP320 Wireless Gamepad/Android/Windows PC/IOS/Switch / PS4 / PS3, Bluetooth Game",
+    "image": "https://m.media-amazon.com/images/I/81G1x9hj8pL._AC_UY218_.jpg",
+    "price": 1299
+}
+        
+]

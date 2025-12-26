@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "title": "Dell [Smartchoice] Core i3-1215U, 12th Gen (8GB RAM/512GB SSD/FHD/Window 11/MS Office' 21/15(38 cm)/15 Month McAfee/Black/1.69kg Laptop",
+        "image": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SY450_.jpg",
+        "price": 20000
+    },{
+        "id": 2,
+        "title": "Dell Inspiron 3535, AMD Ryzen 3 7320U Processor, (8GB RAM/512GB SSD/Window 11/MS Office' 21/15.6(39.62 cm) FHD Display/15 Month McAfee/Carbon Black/1.67kg Thin & Light Laptop",
+        "image": "https://m.media-amazon.com/images/I/418CdEMIMOL._AC_UF480,480_SR480,480_.jpg",
+        "price": 24000
+    },{
+        "id": 3,
+        "title": "Acer [Smartchoice Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 cm (15.6) Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "image": "https://m.media-amazon.com/images/I/415M08foEuL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": 28000
+    },{
+        "id": 4,
+        "title": "(Refurbished) Lenovo ThinkPad 8th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/512 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth 4.1/Webcam/Intel",
+        "image": "https://m.media-amazon.com/images/I/611AaVzaCQL._AC_UY218_.jpg",
+        "price": 30000
+    },{
+        "id": 5,
+        "title": "Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with",
+        "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UY218_.jpg",
+        "price": 44000
+    },{
+        "id": 6,
+        "title": "(Refurbished) HP EliteBook 820 G4 7th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|256 GB SSD|12.5 (31.8 cm) HD|Windows 11|MS Office|WiFi|Webcam|Intel HD Graphics)",
+        "image": "https://m.media-amazon.com/images/I/61HoUL4ChjL._AC_UY218_.jpg",
+        "price": 40000
+    },{
+        "id": 7,
+        "title": "Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6(39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Integrated",
+        "image": "https://m.media-amazon.com/images/I/71xHNSCyRsL._AC_UL320_.jpg",
+        "price": 37100
+    },{
+        "id": 8,
+        "title": "HP Laptop 15s, 12th Gen Intel Core i3, 15.6-inch (39.6 cm), 8GB DDR4, 512GB SSD, Thin & Light, Dual Speakers (Win 11",
+        "image": "https://m.media-amazon.com/images/I/51ksgjS71zL._AC_UL320_.jpg",
+        "price": 39000
+    },{
+        "id": 9,
+        "title": "Lenovo V14 G3 (2024), Intel Core i5 12th Gen 1235U /16GB/512GB SSD/Intel UHD Graphics/Windows 11/ Thin",
+        "image": "https://m.media-amazon.com/images/I/51aoXk4rzXL._AC_UY218_.jpg",
+        "price": 38800
+    },{
+        "id": 10,
+        "title": "Acer Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11",
+        "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY218_.jpg",
+        "price": 20000
+    },{
+        "id": 11,
+        "title": "HP 15 Intel Core i5 13th Gen (16GB Ram/512GB SSD/Fhd/Windows 11/Ms Office/Backlit Kb/15.6",
+        "image": "https://m.media-amazon.com/images/I/71ALJrxmmDL._AC_UY218_.jpg",
+        "price": 43000
+    },{
+        "id": 12,
+        "title": "ASUS Vivobook 16X, 16 FHD+, 144Hz 300nits, Intel Core i5-12500H 2.5 GHz, Creator/Gaming Laptop (16GB",
+        "image": "https://m.media-amazon.com/images/I/71SRRF9Wx1L._AC_UY218_.jpg",
+        "price": 70000
+    },{
+        "id": 13,
+        "title": "HP 15S Intel Core i3 12th Gen (8GB Ram/512GB SSD/Fhd/Ms Office 21/Windows 11/15.6",
+        "image": "https://m.media-amazon.com/images/I/71kaPWQZwNL._AC_UY218_.jpg",
+        "price": 33000
+    },{
+        "id": 14,
+        "title": "Lenovo IdeaPad 1 AMD Ryzen 5 7520U 15.6 HD Thin and Light Laptop (8 GB/512GB SDD/Windows 11 Home/1Yr",
+        "image": "https://m.media-amazon.com/images/I/71lp7jyyjbL._AC_UY218_.jpg",
+        "price": 39000
+    },{
+        "id": 15,
+        "title": "HP Laptop 255 G9 (2024), AMD Athlon Silver 3050U - (8GB/256GB SSD/AMD Radeon Graphics/Windows 11)",
+        "image": "https://m.media-amazon.com/images/I/714KND42UKL._AC_UY218_.jpg",
+        "price": 24700
+    },{
+        "id": 16,
+        "title": "HP 15, 12th Gen Intel Core i5-1235U, 16GB DDR4, 512GB SSD, 15.6-inch(39.6cm), Anti-Glare, FHD Laptop, Intel Iris",
+        "image":"https://m.media-amazon.com/images/I/712Fszbnk0L._AC_UY218_.jpg",
+        "price": 49000
+    },{
+        "id": 17,
+        "title":"HP 15S Intel Core i3 12th Gen (8GB Ram/512 GB SSD/Fhd/Windows 11/Ms Office 21/15.6",
+        "image": "https://m.media-amazon.com/images/I/51y647nNpDL._AC_UY218_.jpg",
+        "price": 37400
+    },{
+        "id": 18,
+        "title": "Acer Chromebook CB315-4H Intel Celeron N4500 (Chrome OS/8 GB RAM/128 GB/WiFi 6) 39.6 cm (15.6) Full HD",
+        "image": "https://m.media-amazon.com/images/I/618YKR-dBgL._AC_UY218_.jpg",
+        "price": 14900
+    },{
+        "id": 19,
+        "title": "ASUS Vivobook Go 14, AMD Ryzen 3 7320U, Thin and Light Laptop, 14 (35.56 cm) FHD, (8 GB RAM/512GB",
+        "image": "https://m.media-amazon.com/images/I/71VRrc7V-PL._AC_UY218_.jpg",
+        "price": 33000
+    },{
+        "id": 20,
+        "title": "Lenovo Latest Launched V15 (2024) 15.6 FHD Anti-Glare Laptop, Intel Celeron N4500, 8GB DDR4 RAM, 256 NVME SSD, Intel UHD Graphics, Wi-Fi, Bluetooth, Windows 11, Black,1 Year",
+        "image": "https://m.media-amazon.com/images/I/71ItRJKLPVL._AC_UY218_.jpg",
+        "price": 22400
+    }
+]

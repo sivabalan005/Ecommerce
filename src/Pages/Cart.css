@@ -1,0 +1,205 @@
+/* ================= Cart.css ================= */
+
+/* Page container */
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  text-align: center;
+}
+
+/* Heading */
+.App h1 {
+  font-size: 2rem;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+/* Cart container */
+.cart-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 15px;
+  scale: 0.9;
+  padding: 0 10px;
+}
+
+/* Cart card */
+.cart-item {
+  background-color: #fff;
+  border-radius: 8px;
+  width: 240px;
+  padding: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* push buttons to bottom */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cart-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Content above buttons */
+.cart-item > div:not(:last-child) {
+  flex-grow: 1; /* fill available space */
+}
+
+/* Image */
+.cart-item img {
+  width: 100%;
+  max-width: 100px;
+  max-height: 120px;
+  height: auto;
+  padding: 2px;
+  border-radius: 8px;
+  border: 1px solid rgb(128, 0, 0);
+  margin-bottom: 10px;
+}
+
+/* Title & price */
+.cart-item h3 {
+  font-size: 1rem;
+  margin: 10px 0 5px;
+  text-align: start;
+}
+
+.cart-item h4 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: start;
+}
+
+/* Button wrapper (last div) */
+.cart-item > div:last-child {
+  display: flex;
+  flex-direction: row; /* buttons side by side */
+  justify-content: center;
+  gap: 10px;
+  /* margin-top: 10px; */
+}
+
+/* Buttons */
+.cart-btn-cont{
+   font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; 
+  align-content: center;
+  flex-direction: row;
+  padding: .5em;
+  gap: 10px;
+  line-height: normal;
+}
+
+.cart-item .button {
+  /* flex: 1;  */
+  padding: 12px 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: 0.3s;
+  z-index: 1;
+  color: #fff;
+}
+
+/* Remove button */
+.button-3 {
+  background: #000;
+}
+
+.button-3:before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  background-size: 400%;
+  filter: blur(5px);
+  opacity: 0;
+  z-index: -1;
+  border-radius: 6px;
+  animation: glowing 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.button-3:hover:before {
+  opacity: 1;
+}
+
+/* Buy Now button */
+.button-4 {
+  background: #3aaeff;
+}
+
+.button-4:hover {
+  background: linear-gradient(#fffb00, #96b63e, #fbff00);
+  color: #000;
+  transform: translateY(-5px);
+}
+
+/* Empty cart message */
+.cart-container p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #888;
+}
+
+/* Glow animation */
+@keyframes glowing {
+  0% { background-position: 0 0; }
+  50% { background-position: 400% 0; }
+  100% { background-position: 0 0; }
+}
+
+/* ================= Responsive ================= */
+
+/* Tablet */
+@media (max-width: 768px) {
+  .cart-container {
+    justify-content: center;
+  }
+
+  .cart-item {
+    width: 45%;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .App{
+      margin-top: 80px;
+  }
+
+  .cart-container {
+    justify-content: center;
+  }
+
+  .cart-item {
+    width: 100%;
+  }
+
+  .cart-item .button {
+    font-size: 14px;
+    padding: 10px;
+  }
+}

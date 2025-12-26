@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Acer Iconia Tab iM10-22 | 10.36 2K IPS Display, Quad Speakers, 8GB RAM + 256GB Storage, 16MP Rear + 8MP Front Camera, Fingerprint Reader, Wi-Fi + 4G LTE(Calling), Android 14, Slim Metal Body, Gold",
+        "image": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._AC_UY218_.jpg",
+        "price": 19999
+    },
+    {
+        "id":2 ,
+        "title": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7) WXGA IPS Display, 400 Nits, 4GB and 64GB eMMC, 8+5 MP Dual-Camera, Slim Metal Body, Wi-Fi5+4G LTE, Android 14, BT 5.2, Gold",
+        "image": "https://m.media-amazon.com/images/I/71pBZp7qWML._AC_UY218_.jpg",
+        "price": 13999
+    },
+    {
+        "id": 3,
+        "title": "Lenovo Tab M10 HD Tablet (10.1 inches, 3GB, 32GB, Wi-Fi + 4G LTE), Slate Black",
+        "image": "https://m.media-amazon.com/images/I/71KcsYWu1uL._AC_UY218_.jpg",
+        "price": 6000
+    },
+    {
+        "id": 4,
+        "title": "Redmi Pad Pro| Snapdragon 7s Gen 2| 30.7cm(12.1) Tablet| 33+ Days Standby|10000mAh|",
+        "image": "https://m.media-amazon.com/images/I/71xy1+l2DkL._AC_UL320_.jpg",
+        "price": 21999
+    },
+    {
+        "id": 5,
+        "title": "Lenovo Tab M11 with Pen| Wi-Fi Connectivity| 8 Gb Ram, 128 Gb ROM|11 Inch Screen| 90 Hz, 72% Ntsc, Fhd Display| Quad Speakers with Dolby Atmos|Octa-Core Processor |13 Mp Rear Camera,White",
+        "image": "https://m.media-amazon.com/images/I/51fWpRMV-dL._AC_UL320_.jpg",
+        "price": 18998
+    },
+    {
+        "id": 6,
+        "title": "Samsung Galaxy Tab A7 Lite 8.7 inches with Calling, Slim Metal Body, Dolby Atmos Sound, RAM 3 GB, ROM 32 GB Expandable, Wi-Fi+4G Tablets, Gray",
+        "image": "https://m.media-amazon.com/images/I/91SpB-8UCuS._AC_UY218_.jpg",
+        "price": 10110
+    },
+    {
+        "id": 7,
+        "title": "Lenovo Tab M10 Fhd 3Rd Gen|10.1 Inch (25.65 Cm) Wuxga IPS Display|100% Srgb|4 Gb Ram,64 Gb",
+        "image": "https://m.media-amazon.com/images/I/51x+rjlKmwL._AC_UY218_.jpg",
+        "price": 10999
+    },
+    {
+        "id":8 ,
+        "title": "Redmi Pad Pro| Snapdragon 7s Gen 2| 30.7cm(12.1) Tablet| 33+ Days Standby|10000mAh| HyperOS| 120Hz|6GB, 128GB| Quad Speakers|Wi-Fi 6| Mist Blue",
+        "image": "https://m.media-amazon.com/images/I/71xy1+l2DkL._AC_UY218_.jpg",
+        "price": 21999
+    },
+    {
+        "id":9 ,
+        "title": "Lenovo Tab Plus with Octa JBL Hi-Fi Speakers| 8 GB RAM, 256 GB ROM| 11.5 Inch, 2K, 90 Hz Refresh| Wi-Fi Tablet| Android 14| 45 W Fast Charger| Built-in Kickstand| Color: Luna Grey",
+        "image": "https://m.media-amazon.com/images/I/61ZEkMXevXL._AC_UY218_.jpg",
+        "price": 22998
+    },
+    {
+        "id": 10,
+        "title": "Lenovo Tab M11 with Pen |Wi-Fi | 4 GB RAM, 128 GB ROM|11 Inch Screen| 90 Hz, 72% NTSC, FHD Display|",
+        "image": "https://m.media-amazon.com/images/I/51WLV2ZemjL._AC_UY218_.jpg",
+        "price": 13999
+    },
+    {
+        "id": 11,
+        "title": "OnePlus Pad Go 28.85cm (11.35 inch) 2.4K 7:5 Ratio ReadFit Eye Care LCD Display, Dolby Atmos Quad Speakers,Wi-Fi Only, 8GB RAM 128 GB ROM Expandable Up-to 1TB, Twin Mint Colour",
+        "image": "https://m.media-amazon.com/images/I/51oj5gE7P+L._AC_UY218_.jpg",
+        "price": 19999
+    },
+    {
+        "id":12 ,
+        "title": "Redmi Pad SE| All Day Battery | Qualcomm Snapdragon 680| 90Hz Refresh Rate| 6GB, 128GB Tablet| FHD+ Display (11-inch/27.81cm)| Dolby Atmos| Quad Speakers| Wi-Fi| Gray",
+        "image": "https://m.media-amazon.com/images/I/715A8CJImML._AC_UY218_.jpg",
+        "price": 13999
+    },
+    {
+        "id": 13,
+        "title": "Samsung Galaxy Tab A9+ 27.94 cm (11.0 inch) Display, RAM 8 GB, ROM 128 GB Expandable, Wi-Fi+5G, Tablet, Graphite",
+        "image": "https://m.media-amazon.com/images/I/61J1NUF2sKL._AC_UY218_.jpg",
+        "price": 21949
+    },
+    {
+        "id":14 ,
+        "title": "Lenovo Tab Plus with Octa JBL Hi-Fi Speakers| 8 GB RAM, 128 GB ROM| 11.5 Inch, 2K, 90 Hz Refresh| Wi-Fi Tablet|",
+        "image": "https://m.media-amazon.com/images/I/61ZEkMXevXL._AC_UY218_.jpg",
+        "price": 20998
+    },
+    {
+        "id":15 ,
+        "title": "Lenovo M10 Hd 2Nd Gen Wi-Fi Connectivity (10 Inch, 2 Gb, 32 Gb) [Year-2020],Gray",
+        "image": "https://m.media-amazon.com/images/I/71UXXKK2gSL._AC_UY218_.jpg",
+        "price": 6160 
+    },
+    {
+        "id": 16,
+        "title": "Samsung Galaxy Tab A9 22.10 cm (8.7 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray",
+        "image": "https://m.media-amazon.com/images/I/61MTXDqdidL._AC_UY218_.jpg",
+        "price": 12339
+    },
+    {
+        "id": 17,
+        "title": "Lenovo Tab M7 Tablet (7-inch(17.7cm), 1GB, 8GB, Wi-fi Only)",
+        "image": "https://m.media-amazon.com/images/I/71sptfXojzL._AC_UY218_.jpg",
+        "price": 4699
+    },
+    {
+        "id":18 ,
+        "title": "Lenovo Tab P11 (2nd Gen)| 11.5 Inch| 6 GB, 128 GB Expandable| Wi-Fi + LTE| 120 Hz, 2K",
+        "image": "https://m.media-amazon.com/images/I/517Rd6DfZRL._AC_UY218_.jpg",
+        "price": 16999
+    },
+    {
+        "id":19 ,
+        "title": "Lenovo Tab M11 with Pen| 4G (LTE) + Wi-Fi | 8 Gb Ram, 128 Gb ROM (Expandable Upto 1 Tb)| 11 Inch Screen, 90",
+        "image": "https://m.media-amazon.com/images/I/610nJ1jWpjL._AC_UY218_.jpg",
+        "price": 20998
+    },
+    {
+        "id":20 ,
+        "title": "OnePlus Pad 2(12.1 Inch)LCD Display,12GB RAM, 256GB Storage,Snapdragon 8 Gen 3,144Hz Refresh Rate,Dolby",
+        "image": "https://m.media-amazon.com/images/I/61tslaYWLjL._AC_UY218_.jpg",
+        "price": 41999
+    }
+]

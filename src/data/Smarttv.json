@@ -1,0 +1,135 @@
+[
+      {
+          "id": 50,
+          "title": "LG 139 cm (55 inches) 4K Ultra HD Smart OLED TV 55BXPTA (Dark Steel Silver)",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694156089516-71KVQa4N4zL._SL1500_.jpg",
+          "price": 1322,
+          "description": "Display backlight technology used by the TV \r\nThe number of display pixels in the TV, usually denoted by the number of horizontal pixels multiplies by number of vertical pixels\r\n",
+          "brand": "LG",
+          "model": "OLED55BXPTA",
+          "color": "dark steel silver",
+          "category": "tv",
+          "discount": 9
+      },
+      {
+          "id": 46,
+          "title": "Redmi 80 cm (32 inches) HD Ready Smart LED Fire TV L32R8-FVIN (Black)",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694154515879-819Lw2PE8tL._SL1500_.jpg",
+          "price": 138,
+          "description": "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz | 178 wide viewing angle\r\nConnectivity: Dual Band Wi-Fi (2.4 GHz/ 5 GHz) | 2 HDMI ports to connect set top box, gaming consoles, DVD or Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ARC | Bluetooth 5.0 | Ethernet | 3.5mm earphone Jack\r\nSound: 20 Watts Output | Dolby Audio | DTS Virtual: X | DTS-HD\r\nSmart TV Features : Fire TV Built-In | Supported Apps: Prime Video | Netflix | Disney+ Hotstar | YouTube | 12000+ apps from App Store | Voice Remote with Alexa | DTH Set-Top Box Integration to switch between DTH TV Channels and OTT apps from home screen | Display Mirroring - Airplay & Miracast | Quad core ARM Cortex-A35 CPU @ 2.0GHz | 1GB RAM + 8GB Internal Storage\r\nDisplay: Metal bezel-less Screen | Vivid Picture Engine\r\nRecommendation: We recommend using 1.5V Alkaline AAA Batteries in your Alexa Voice Remote for a steady performance.",
+          "brand": "redmi",
+          "model": "L32R8",
+          "color": "black",
+          "category": "tv",
+          "onSale": true,
+          "discount": 7
+      },
+      {
+          "id": 47,
+          "title": "Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA43CUE60AKLXL (Black)",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694154827301-81+JXgPUDLL._SL1500_.jpg",
+          "price": 396,
+          "description": "Smart TV Features : Supported apps: Netflix, Prime Video, YouTube, etc., Screen mirroring, Universal Guide, Media Home, Tap View, Mobile Camera Support, AI Speaker, Easy Setup, App Casting, Wireless DeX, SmartThings, Smart Hub, IoT Sensor, Web Browser",
+          "brand": "samsung",
+          "model": "UA43CUE60AKLXL",
+          "color": "black",
+          "category": "tv",
+          "discount": 9
+      },
+      {
+          "id": 49,
+          "title": " Acer 126 cm (50 inches) V Series 4K Ultra HD Smart QLED Google TV AR50GR2851VQD (Black)",
+          "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694155440745-619--Jabh2L._SL1048_.jpg",
+          "price": 444,
+          "description": "Resolution: QLED, 4K Ultra HD (3840x2160) | Refresh Rate: 60 Hertz | 178 Degree wide viewing angle\r\nConnectivity: Dual band Wifi | 2 way Bluetooth | HDMI ports 2.1 x 3 (HDMI 1 supports eARC) to connect personal computer, laptop, set top box, Blu-ray speakers or a gaming console | USB ports 2.0 x 1, 3.0 x 1 to connect hard drives or other USB device\r\nSound: 30 Watts Output | High Fidelity Speakers with Dolby Atmos | 5 Sound Modes - Stadium, Standard, Movie, Music, Speech\r\nSmart TV Features: Google TV | Content Recommendations | Watchlist | Personal Profile | Kids Profile | Google Assistant | Built-in Chromecast | Voice enabled Smart Remote | Hotkeys for Quick Access - Netflix, Prime Video, YouTube, Disney+Hotstar | Quad Core Processor 2GB RAM | 16GB Storage",
+          "brand": "acer",
+          "model": "AR50GR2851VQD",
+          "color": "black",
+          "category": "tv",
+          "discount": 5
+      },
+      {
+        "id": 11,
+        "title": "Kodak 80 cm (32 inches) Matrix Series QLED Android Google TV 32MT5077 (Black)",
+        "image": "https://m.media-amazon.com/images/I/71Ux0OpdKwL._AC_UY218_.jpg",
+        "price": 12000
+      },
+      {
+        "id": 12,
+        "title": "VW 80 cm (32 inches) Playwall Frameless Series HD Ready Android Smart LED TV VW32F5 (Black)",
+        "image": "https://m.media-amazon.com/images/I/71tKQEE8ayL._AC_UY218_.jpg",
+        "price": 7499
+      },
+      {
+        "id": 13,
+        "title": "Xiaomi Smart TV A 80 cm (32) HD Ready Smart Google LED TV L32MA-AIN (Black)",
+        "image": "https://m.media-amazon.com/images/I/81u+lUSZRDL._AC_UY218_.jpg",
+        "price": 12499
+      },
+      {
+        "id": 14,
+        "title": "TCL 79.97 cm (32 inches) Metallic Bezel-Less HD Ready Smart Android LED TV 32L4B (Black)",
+        "image": "https://m.media-amazon.com/images/I/71gdqt4MtJL._AC_UY218_.jpg",
+        "price": 9499
+      },
+      {
+        "id": 15,
+        "title": "Hisense 80 cm (32 inches) E43N Series HD Ready Smart Google LED TV 32E43N (Black)",
+        "image": "https://m.media-amazon.com/images/I/81M8Kn8222L._AC_UL320_.jpg",
+        "price": 11999
+      },
+      {
+        "id": 16,
+        "title": "VW 80 cm (32 inches) Frameless Series HD Ready Android Smart LED TV VW32S (Black)",
+        "image": "https://m.media-amazon.com/images/I/717oSOB4hCL._AC_UY218_.jpg",
+        "price": 7499
+      },
+      {
+        "id": 17,
+        "title": "Redmi Xiaomi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32MA-FVIN (Black)",
+        "image": "https://m.media-amazon.com/images/I/71MwDnn-ZaL._AC_UY218_.jpg",
+        "price": 11799
+      },
+      {
+        "id": 18,
+        "title": "VW 60 cm (24 inches) Linux Frameless Series HD Ready Smart LED TV VW24C3 (Black) | with 18 Months Warranty",
+        "image": "https://m.media-amazon.com/images/I/71G5lf8y9OL._AC_UY218_.jpg",
+        "price":  7000
+      },
+      {
+        "id": 19,
+        "title": "VW 109 cm (43 inches) Playwall Frameless Series Full HD Android Smart LED TV VW43F2 (Black)",
+        "image": "https://m.media-amazon.com/images/I/71RMJHjJa0L._AC_UY218_.jpg",
+        "price": 14499
+      },
+      {
+        "id": 20,
+        "title": "LG 80 cm (32 inches) HD Ready Smart LED TV 32LQ643BPTA (Black)",
+        "image": "https://m.media-amazon.com/images/I/71jABwvhA0L._AC_UY218_.jpg",
+        "price": 14490
+      },
+      {
+        "id": 21,
+        "title": "Panasonic 80 cm (32 inches) HD Ready Smart LED Google TV TH32MS660DX (Black)",
+        "image": "https://m.media-amazon.com/images/I/719d1sN-1HL._AC_UY218_.jpg",
+        "price": 13490
+      },
+      {
+        "id": 22,
+        "title": "Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4380AKXXL (Glossy Black)",
+        "image": "https://m.media-amazon.com/images/I/714ccOfBThL._AC_UY218_.jpg",
+        "price": 14290
+      },
+      {
+        "id": 23,
+        "title": "TCL 79.97 cm (32 inches) Metallic Bezel-Less S Series FHD Smart Android LED TV 32S5500AF (Black)",
+        "image": "https://m.media-amazon.com/images/I/71qonh3XFPL._AC_UY218_.jpg",
+        "price": 10490
+      },
+      {
+        "id": 24,
+        "title": "VW 101 cm (40 inches) Playwall Frameless Series Full HD Android Smart LED TV VW40F2 (Black)",
+        "image": "https://m.media-amazon.com/images/I/71wx0o6ZF9L._AC_UY218_.jpg",
+        "price": 12499
+      }
+]
